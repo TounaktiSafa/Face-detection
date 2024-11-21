@@ -1,0 +1,1 @@
+This repository contains a Python script that implements a real-time face recognition system using the face_recognition library and OpenCV. The system captures video from a webcam, detects faces, and recognizes known individuals based on pre-loaded images.
